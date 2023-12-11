@@ -1,6 +1,14 @@
 body {
+    color: #333333;
     margin: 40px auto;
     max-width: 650px;
     font-family: Arial, sans-serif;
     font-size: 1.2em;
+    line-height: 1.5;
+}
+
+a {
+    color: inherit;
+    text-underline-offset: 10%;
+    text-decoration-color: lightgray;
 }
