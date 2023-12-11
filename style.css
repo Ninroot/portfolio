@@ -1,10 +1,15 @@
 body {
+    /* font */
     color: #333333;
-    margin: 40px auto;
-    max-width: 650px;
     font-family: Arial, sans-serif;
     font-size: 1.2em;
     line-height: 1.5;
+    
+    /* center */
+    margin: 0 auto;
+    max-width: 650px;
+
+    padding: 10px;
 }
 
 a {
